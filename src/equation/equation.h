@@ -4,8 +4,9 @@
 #include <vector>
 
 #include "mesh.h"
-#include "boundary_condtions.h"
+#include "boundary_conditions.h"
 #include "time_cfd.h"
+#include "fluid.h"
 
 class Equation
 {

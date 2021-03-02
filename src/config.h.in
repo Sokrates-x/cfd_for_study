@@ -1,0 +1,4 @@
+// the configure file
+#define cfd_fs_VERSION_MAJOR @cfd_VERSION_MAJOR@
+#define cfd_fs_VERSION_MINOR @cfd_VERSION_MINOR@
+

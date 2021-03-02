@@ -4,8 +4,6 @@
 #include <memory>
 #include <vector>
 
-#include "fluid.h"
-
 class Node
 {
 public:

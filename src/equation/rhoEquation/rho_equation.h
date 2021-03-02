@@ -2,7 +2,6 @@
 #define RHO_EQUATION_H
 
 #include "equation.h"
-#include "time_cfd.h"
 
 class Rho_equation : public Equation
 {

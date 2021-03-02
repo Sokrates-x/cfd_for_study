@@ -2,7 +2,6 @@
 #define U_EQUATION_H
 
 #include "equation.h"
-#include "time_cfd.h"
 
 class U_equation : public Equation
 {

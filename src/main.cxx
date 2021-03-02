@@ -11,10 +11,9 @@
 #include "fluid.h"
 #include "mesh.h"
 #include "time_cfd.h"
-#include "node.h"
-#include "boundary_condtions.h"
+#include "boundary_conditions.h"
 #include "field.h"
-#include "initial_tags.h"
+#include "./tags/tags.h"
 #include "u_equation.h"
 #include "rho_equation.h"
 

@@ -5,8 +5,8 @@
 #include <iostream>
 #include <memory>
 
-#include "constant.h"
-#include "initial_tags.h"
+#include "../constants/constant.h"
+#include "../tags/tags.h"
 #include "field.h"
 
 //class Initial_conditons;

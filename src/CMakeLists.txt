@@ -11,7 +11,7 @@ add_executable(cfd_fs main.cxx)
 configure_file(config.h.in config.h)
 
 # c++ standard
-set(CMAKE_CXX_STANDARD)
+set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED Ture)
 
 # add directory
